@@ -3,6 +3,7 @@
 
 
 - ▶ **Try it:** https://kogayuki.github.io/sprout-5/
+- 🎬 **Demo video:** https://kogayuki.github.io/sprout-5/demo.mp4
 
 ## About
 
